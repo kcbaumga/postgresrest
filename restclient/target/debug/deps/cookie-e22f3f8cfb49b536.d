@@ -1,0 +1,15 @@
+/home/kyleb/git/postgresrest/restclient/target/debug/deps/cookie-e22f3f8cfb49b536.rmeta: /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/lib.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/builder.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/parse.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/jar.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/delta.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/draft.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/mod.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/macros.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/key.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/private.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/signed.rs
+
+/home/kyleb/git/postgresrest/restclient/target/debug/deps/cookie-e22f3f8cfb49b536.d: /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/lib.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/builder.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/parse.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/jar.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/delta.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/draft.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/mod.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/macros.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/key.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/private.rs /home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/signed.rs
+
+/home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/lib.rs:
+/home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/builder.rs:
+/home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/parse.rs:
+/home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/jar.rs:
+/home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/delta.rs:
+/home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/draft.rs:
+/home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/mod.rs:
+/home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/macros.rs:
+/home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/key.rs:
+/home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/private.rs:
+/home/kyleb/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.5/src/secure/signed.rs:
