@@ -1,0 +1,1 @@
+/home/pi/Documents/git/postgresrest/restclient/target/debug/write_post: /home/pi/Documents/git/postgresrest/restclient/src/bin/write_post.rs /home/pi/Documents/git/postgresrest/restclient/src/lib.rs /home/pi/Documents/git/postgresrest/restclient/src/models.rs /home/pi/Documents/git/postgresrest/restclient/src/schema.rs
