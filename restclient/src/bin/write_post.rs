@@ -1,6 +1,7 @@
-use diesel_demo::*;
+//use diesel_demo::*;
 use std::io::{stdin, Read};
-
+use restclient::establish_connection;
+use restclient::create_post;
 fn main() {
     let connection = &mut establish_connection();
 
